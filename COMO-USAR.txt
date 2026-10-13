@@ -1,0 +1,31 @@
+ScreenInk 0.2.0 — Guia rápido
+
+Instale ScreenInk-Setup-0.2.0.exe. Abra o ScreenInk pelo menu Iniciar.
+As ferramentas novas estão no menu MAIS FERRAMENTAS da barra.
+
+Desenho: Linha, Formas, Selecionar (arraste uma anotação; Delete remove),
+preenchimento, transparência, tipos de traço e pontas de seta.
+Configurações de desenho e barra: escolha formas, fonte, texto, preenchimento,
+orientação, número de linhas/colunas, ferramentas visíveis, ordem e atalhos.
+
+Medição: arraste uma Régua para medir distância em pixels. Arraste Ângulos
+para posicionar um transferidor e mova o cursor para ler o ângulo.
+Conta-gotas: clique na captura para obter HEX/RGB e selecionar essa cor.
+Holofote e Ponteiro acompanham o cursor; ajuste seus tamanhos nas configurações.
+Guias do cursor acrescenta referências horizontal e vertical.
+
+Páginas: abra o navegador para alternar, duplicar, excluir e criar quadros.
+O menu permite quadros brancos, pretos ou coloridos, novas capturas e imagens.
+Ctrl+PageUp/PageDown alterna páginas. Máximo de 32 páginas por projeto.
+Salvar projeto editável grava .screenink; Abrir projeto permite continuar.
+Projetos editáveis mantêm a resolução de tela de origem.
+Exportar PDF e PNG usa todas as páginas e suas anotações.
+O PDF preserva a aparência como imagens; o projeto .screenink preserva edição.
+
+Print: tela inteira, área retangular ou seleção livre, depois escolha onde salvar.
+A seleção livre preserva transparência fora do contorno. Esc cancela o recorte.
+Interagir com aplicativos libera o desktop; clique numa ferramenta para voltar.
+Esc encerra a captura em um toque. Em espera, outro Esc fecha o aplicativo.
+
+O instalador e aplicativo não têm assinatura digital; o Windows pode exibir aviso.
+
