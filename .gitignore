@@ -1,0 +1,6 @@
+dist/
+*.exe
+*.pdb
+test-output*
+startup-error.txt
+.vs/
